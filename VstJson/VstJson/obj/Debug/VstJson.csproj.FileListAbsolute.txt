@@ -1,0 +1,13 @@
+F:\20202\VstJson\VstJson\bin\Debug\VstJson.dll
+F:\20202\VstJson\VstJson\bin\Debug\VstJson.pdb
+F:\20202\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.dll
+F:\20202\VstJson\VstJson\bin\Debug\Newtonsoft.Json.dll
+F:\20202\VstJson\VstJson\bin\Debug\Newtonsoft.Json.pdb
+F:\20202\VstJson\VstJson\bin\Debug\Newtonsoft.Json.xml
+F:\20202\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.pdb
+F:\20202\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.xml
+F:\20202\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+F:\20202\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+F:\20202\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+F:\20202\VstJson\VstJson\obj\Debug\VstJson.dll
+F:\20202\VstJson\VstJson\obj\Debug\VstJson.pdb

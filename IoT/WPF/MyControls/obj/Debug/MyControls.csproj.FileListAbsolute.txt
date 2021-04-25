@@ -1,0 +1,2 @@
+F:\20202\IoT\WPF\MyControls\obj\Debug\MyControls.csprojAssemblyReference.cache
+F:\20202\IoT\WPF\MyControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache

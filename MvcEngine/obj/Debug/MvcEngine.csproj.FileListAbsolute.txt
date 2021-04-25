@@ -1,0 +1,5 @@
+F:\20202\IoT\MvcEngine\bin\Debug\MvcEngine.dll
+F:\20202\IoT\MvcEngine\bin\Debug\MvcEngine.pdb
+F:\20202\IoT\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+F:\20202\IoT\MvcEngine\obj\Debug\MvcEngine.dll
+F:\20202\IoT\MvcEngine\obj\Debug\MvcEngine.pdb
